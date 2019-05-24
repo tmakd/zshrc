@@ -1,0 +1,2 @@
+# zshrc
+Alias de Terminal
